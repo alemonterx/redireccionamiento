@@ -1,6 +1,6 @@
 # Redireccionamiento
 
-Enunciado: Genera un archivo llamado "informe.txt" que contenga la siguiente información:
+Genera un archivo llamado "informe.txt" que contenga la siguiente información:
 - La fecha del sistema formateada (día-mes-año).
 - El espacio en disco (df -h)
 - Usuarios conectados
